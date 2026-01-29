@@ -1,7 +1,1 @@
 venv
-git init
-git add .
-git commit -m "feat: add project files and graphs"
-git branch -M main
-git remote add origin https://github.com/JoseEd0/lab1_opticas.git
-git push -u origin main
